@@ -6,7 +6,8 @@ https://github.com/jianqianzhou/leetcode/blob/main/000.twoSum.java
 https://github.com/jianqianzhou/leetcode/blob/main/003.lengthOfLongestSubstring.java
 
 双指针问题
-https://github.com/jianqianzhou/leetcode/blob/main/009.isPalindrome.java
+（1）https://github.com/jianqianzhou/leetcode/blob/main/009.isPalindrome.java
+（2）https://github.com/jianqianzhou/leetcode/blob/main/011.maxArea.java
 
 字符串操作问题
 https://github.com/jianqianzhou/leetcode/blob/main/008.myAtoi.java
