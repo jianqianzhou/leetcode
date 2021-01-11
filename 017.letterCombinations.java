@@ -26,7 +26,7 @@ class Solution {
          for(int i=0; i<letters.length(); i++){
                sb.append(letters.charAt(i));
                trace(digits,index+1);
-               sb.deleteCharAt(sb.length()-1);
+               sb.deleteCharAt(sb.length()-1);  //删除最后一个元素
          }   
     }
 }
