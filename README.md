@@ -15,6 +15,7 @@ https://github.com/jianqianzhou/leetcode/blob/main/016.threeSumClosest.java
 字符串操作问题
 https://github.com/jianqianzhou/leetcode/blob/main/008.myAtoi.java
 https://github.com/jianqianzhou/leetcode/blob/main/013.romanToInt.java
+https://github.com/jianqianzhou/leetcode/blob/main/020.isValid.java（字符串匹配、栈操作）
 
 动态规划问题
 https://github.com/jianqianzhou/leetcode/blob/main/005.longestPalindrome.java dp[i][j] = s[i]==s[j] && dp[i+1][j-1]
