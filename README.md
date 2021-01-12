@@ -11,6 +11,7 @@ https://github.com/jianqianzhou/leetcode/blob/main/011.maxArea.java
 https://github.com/jianqianzhou/leetcode/blob/main/015.threeSum.java （三数之和、四数之和）
 https://github.com/jianqianzhou/leetcode/blob/main/018.fourSum.java
 https://github.com/jianqianzhou/leetcode/blob/main/016.threeSumClosest.java
+https://github.com/jianqianzhou/leetcode/blob/main/026.removeDuplicates.java
 
 字符串操作问题
 https://github.com/jianqianzhou/leetcode/blob/main/008.myAtoi.java
@@ -26,6 +27,8 @@ https://github.com/jianqianzhou/leetcode/blob/main/019.removeNthFromEnd.java(删
 https://github.com/jianqianzhou/leetcode/blob/main/021.mergeTwoLists.java(合并两个链表，按照大小顺序合并)
 数字操作问题
 https://github.com/jianqianzhou/leetcode/blob/main/007.reverse.java
+https://github.com/jianqianzhou/leetcode/blob/main/024.swapPairs.java(链表两两交换)
+
 
 贪心策略
 https://github.com/jianqianzhou/leetcode/blob/main/012.intToRoman.java
