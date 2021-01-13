@@ -37,5 +37,8 @@ https://github.com/jianqianzhou/leetcode/blob/main/012.intToRoman.java
 https://github.com/jianqianzhou/leetcode/blob/main/017.letterCombinations.java
 https://github.com/jianqianzhou/leetcode/blob/main/022.generateParenthesis.java(括号生成)
 
+移除重复元素
+https://github.com/jianqianzhou/leetcode/blob/main/026.removeDuplicates.java
+https://github.com/jianqianzhou/leetcode/blob/main/027.removeElement.java
 
 
