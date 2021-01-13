@@ -11,7 +11,7 @@ class Solution {
              return -1;
     }
 
-    ////////////////////////////////////////
+    ////////////////////////////////////////不使用substring函数
     public int strStr(String haystack, String needle) {
            int m = haystack.length(); int n = needle.length();
            if(n==0) return 0;
