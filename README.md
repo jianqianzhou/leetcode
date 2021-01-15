@@ -32,6 +32,7 @@ https://github.com/jianqianzhou/leetcode/blob/main/007.reverse.java
 https://github.com/jianqianzhou/leetcode/blob/main/024.swapPairs.java(链表两两交换)
 https://github.com/jianqianzhou/leetcode/blob/main/025.reverseKGroup.java（k个链表反转）
 https://github.com/jianqianzhou/leetcode/blob/main/206.reverseList.java(反转链表)
+https://github.com/jianqianzhou/leetcode/blob/main/445.addTwoNumbers.java（栈与链表结合）
 
 
 贪心策略
