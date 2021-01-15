@@ -30,6 +30,7 @@ https://github.com/jianqianzhou/leetcode/blob/main/021.mergeTwoLists.java(合并
 https://github.com/jianqianzhou/leetcode/blob/main/007.reverse.java
 https://github.com/jianqianzhou/leetcode/blob/main/024.swapPairs.java(链表两两交换)
 https://github.com/jianqianzhou/leetcode/blob/main/025.reverseKGroup.java（k个链表反转）
+https://github.com/jianqianzhou/leetcode/blob/main/206.reverseList.java(反转链表)
 
 
 贪心策略
