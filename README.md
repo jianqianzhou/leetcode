@@ -33,6 +33,8 @@ https://github.com/jianqianzhou/leetcode/blob/main/024.swapPairs.java(链表两�
 https://github.com/jianqianzhou/leetcode/blob/main/025.reverseKGroup.java（k个链表反转）
 https://github.com/jianqianzhou/leetcode/blob/main/206.reverseList.java(反转链表)
 https://github.com/jianqianzhou/leetcode/blob/main/445.addTwoNumbers.java（栈与链表结合）
+快慢指针
+https://github.com/jianqianzhou/leetcode/blob/main/142.detectCycle.java（检测链表是否有环）
 
 
 贪心策略
