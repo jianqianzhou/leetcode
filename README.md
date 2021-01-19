@@ -34,8 +34,12 @@ https://github.com/jianqianzhou/leetcode/blob/main/025.reverseKGroup.java（k个
 https://github.com/jianqianzhou/leetcode/blob/main/206.reverseList.java(反转链表)
 https://github.com/jianqianzhou/leetcode/blob/main/445.addTwoNumbers.java（栈与链表结合）
 https://github.com/jianqianzhou/leetcode/blob/main/203.removeElements.java（移除相等元素）
-快慢指针
+快慢指针用处：
+（1）判断链表是否有环
+（2）判断入环点
+（3）获取链表的中间节点
 https://github.com/jianqianzhou/leetcode/blob/main/142.detectCycle.java（检测链表是否有环）
+https://github.com/jianqianzhou/leetcode/blob/main/148.sortList.java(链表排序)
 
 
 贪心策略
