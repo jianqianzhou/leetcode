@@ -57,4 +57,6 @@ https://github.com/jianqianzhou/leetcode/blob/main/027.removeElement.java
 二分查找
 https://github.com/jianqianzhou/leetcode/blob/main/035.searchInsert.java
 
+位运算
+https://github.com/jianqianzhou/leetcode/blob/main/029.divide.java
 
