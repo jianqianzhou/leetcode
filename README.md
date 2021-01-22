@@ -61,3 +61,5 @@ https://github.com/jianqianzhou/leetcode/blob/main/033.search.java(旋转数组�
 位运算
 https://github.com/jianqianzhou/leetcode/blob/main/029.divide.java
 
+数组操作
+https://github.com/jianqianzhou/leetcode/blob/main/031.nextPermutation.java
