@@ -21,6 +21,7 @@ https://github.com/jianqianzhou/leetcode/blob/main/028.strStr.java（substring�
 
 动态规划问题
 https://github.com/jianqianzhou/leetcode/blob/main/005.longestPalindrome.java dp[i][j] = s[i]==s[j] && dp[i+1][j-1]
+https://github.com/jianqianzhou/leetcode/blob/main/044.isMatch.java dp[i][j]=dp[i−1][j−1], dp[i][j]=dp[i][j−1]∨dp[i−1][j]
 
 链表问题
 https://github.com/jianqianzhou/leetcode/blob/main/002.addTwoNumbers.java
