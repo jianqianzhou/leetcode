@@ -12,6 +12,7 @@ https://github.com/jianqianzhou/leetcode/blob/main/015.threeSum.java （三数�
 https://github.com/jianqianzhou/leetcode/blob/main/018.fourSum.java
 https://github.com/jianqianzhou/leetcode/blob/main/016.threeSumClosest.java
 https://github.com/jianqianzhou/leetcode/blob/main/026.removeDuplicates.java
+https://github.com/jianqianzhou/leetcode/blob/main/042.trap.java
 
 字符串操作问题
 https://github.com/jianqianzhou/leetcode/blob/main/008.myAtoi.java
