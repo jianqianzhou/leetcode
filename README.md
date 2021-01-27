@@ -76,3 +76,4 @@ https://github.com/jianqianzhou/leetcode/blob/main/040.combinationSum2.java（�
 https://github.com/jianqianzhou/leetcode/blob/main/094.inorderTraversal.java（中序遍历，使用栈Stack，先进后出）
 https://github.com/jianqianzhou/leetcode/blob/main/102.levelOrder.java（层序遍历，使用队列LinkedList，先进先出）
 https://github.com/jianqianzhou/leetcode/blob/main/103.zigzagLevelOrder.java（锯齿状遍历，使用队列LinkedList，先进先出）
+https://github.com/jianqianzhou/leetcode/blob/main/145.postorderTraversal.java(后序遍历，使用栈Stack，先进后出)
