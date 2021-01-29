@@ -40,15 +40,16 @@ class Solution {
          if(root==null) return true;
          LinkedList<TreeNode> queue = new LinkedList<>();
          queue.add(root);
+         queue.add(root);  //这里注意，需要添加root两次，一边判断
          while(!queue.isEmpty()){
                TreeNode node1 = queue.poll();  //同时poll两个节点，这两个节点值需要一致才能相等
                TreeNode node2 = queue.poll();
                if(node1==null && node2==null) continue;  //因为下面没有判断是否为null都加入到了队列中，所以在这里需要判断，当两个都为null时，表示叶子节点了，需要continue继续判断别的节点。
                if( (node1==null || node2==null) || (node1.val!=node2.val)) return false; //当一个节点为null，另一个节点不为null，或者两个节点的值不相等时，返回为false
                queue.add(node1.left);    //不用判断是否为空再加入，不管是否为null都需要加入到队列中，因为后续会有判断
-               queue.add(node1.right);   //加入顺序，先node1的左节点，再右节点
-               queue.add(node2.right);   //然后是node2的右节点再左节点
-               queue.add(node2.left);
+               queue.add(node2.right);   //加入顺序，先node1的左节点，再加入node2的右节点，判断是否对称
+               queue.add(node1.right);   
+               queue.add(node2.left);   //先加入node1的右节点，再加入node2的左节点，判断是否对称
          }
          return queue.isEmpty();
    }
