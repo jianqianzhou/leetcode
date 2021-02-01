@@ -79,6 +79,8 @@ https://github.com/jianqianzhou/leetcode/blob/main/103.zigzagLevelOrder.java（�
 https://github.com/jianqianzhou/leetcode/blob/main/107.levelOrderBottom.java（从后往前层序遍历，使用队列LinkedList，先进先出）
 https://github.com/jianqianzhou/leetcode/blob/main/145.postorderTraversal.java(后序遍历，使用栈Stack，先进后出)
 https://github.com/jianqianzhou/leetcode/blob/main/144.preorderTraversal.java(前序遍历，使用栈Stack，先进先出)
+
+https://github.com/jianqianzhou/leetcode/blob/main/112.hasPathSum.java(使用层序遍历来计算累计和)
 判断树的结构
 https://github.com/jianqianzhou/leetcode/blob/main/100.isSameTree.java（判断两颗树是否相同，深度（递归遍历）、广度优先遍历（队列））
 https://github.com/jianqianzhou/leetcode/blob/main/101.isSymmetric.java（判断树是否是对称的）
