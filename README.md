@@ -85,4 +85,7 @@ https://github.com/jianqianzhou/leetcode/blob/main/101.isSymmetric.java（判断
 求树的深度、高度
 https://github.com/jianqianzhou/leetcode/blob/main/104.maxDepth.java（二叉树的最大深度）
 https://github.com/jianqianzhou/leetcode/blob/main/111.minDepth.java（二叉树的最小深度）
+构造树
+https://github.com/jianqianzhou/leetcode/blob/main/108.sortedArrayToBST.java（数组构造二叉搜索树）
+https://github.com/jianqianzhou/leetcode/blob/main/109.sortedListToBST.java（链表构造二叉搜索树，快慢指针）
 
