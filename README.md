@@ -82,6 +82,7 @@ https://github.com/jianqianzhou/leetcode/blob/main/144.preorderTraversal.java(�
 判断树的结构
 https://github.com/jianqianzhou/leetcode/blob/main/100.isSameTree.java（判断两颗树是否相同，深度（递归遍历）、广度优先遍历（队列））
 https://github.com/jianqianzhou/leetcode/blob/main/101.isSymmetric.java（判断树是否是对称的）
+https://github.com/jianqianzhou/leetcode/blob/main/110.isBalanced.java（判断树是否是平衡二叉树）
 求树的深度、高度
 https://github.com/jianqianzhou/leetcode/blob/main/104.maxDepth.java（二叉树的最大深度）
 https://github.com/jianqianzhou/leetcode/blob/main/111.minDepth.java（二叉树的最小深度）
