@@ -40,7 +40,8 @@ https://github.com/jianqianzhou/leetcode/blob/main/203.removeElements.java（移
 （1）判断链表是否有环
 （2）判断入环点
 （3）获取链表的中间节点
-https://github.com/jianqianzhou/leetcode/blob/main/142.detectCycle.java（检测链表是否有环）
+https://github.com/jianqianzhou/leetcode/blob/main/141.hasCycle.java（检测链表是否有环）
+https://github.com/jianqianzhou/leetcode/blob/main/142.detectCycle.java（检测链表是否有环、并判断入环的位置）
 https://github.com/jianqianzhou/leetcode/blob/main/148.sortList.java(链表排序)
 https://github.com/jianqianzhou/leetcode/blob/main/143.reorderList.java（交叉重新排序）
 
