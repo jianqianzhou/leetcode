@@ -93,3 +93,6 @@ https://github.com/jianqianzhou/leetcode/blob/main/111.minDepth.java（二叉树
 https://github.com/jianqianzhou/leetcode/blob/main/108.sortedArrayToBST.java（数组构造二叉搜索树）
 https://github.com/jianqianzhou/leetcode/blob/main/109.sortedListToBST.java（链表构造二叉搜索树，快慢指针）
 
+树的转变
+https://github.com/jianqianzhou/leetcode/blob/main/114.flatten.java
+
