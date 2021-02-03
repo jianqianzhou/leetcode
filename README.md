@@ -95,5 +95,6 @@ https://github.com/jianqianzhou/leetcode/blob/main/108.sortedArrayToBST.java（�
 https://github.com/jianqianzhou/leetcode/blob/main/109.sortedListToBST.java（链表构造二叉搜索树，快慢指针）
 
 树的转变
-https://github.com/jianqianzhou/leetcode/blob/main/114.flatten.java
+https://github.com/jianqianzhou/leetcode/blob/main/114.flatten.java（树转为链表）
+https://github.com/jianqianzhou/leetcode/blob/main/116.connect.java(树每一层转为链表)
 
