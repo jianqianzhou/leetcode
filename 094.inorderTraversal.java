@@ -1,5 +1,5 @@
 class Solution {
-    /////////////////////非递归////////
+    /////////////////////非递归////////中序遍历，左根右
     public List<Integer> inorderTraversal(TreeNode root) {
           List<Integer> ans = new ArrayList<>();
           if(root==null) return ans;
