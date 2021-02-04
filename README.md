@@ -80,6 +80,7 @@ https://github.com/jianqianzhou/leetcode/blob/main/103.zigzagLevelOrder.java（�
 https://github.com/jianqianzhou/leetcode/blob/main/107.levelOrderBottom.java（从后往前层序遍历，使用队列LinkedList，先进先出）
 https://github.com/jianqianzhou/leetcode/blob/main/145.postorderTraversal.java(后序遍历，使用栈Stack，先进后出)
 https://github.com/jianqianzhou/leetcode/blob/main/144.preorderTraversal.java(前序遍历，使用栈Stack，先进先出)
+https://github.com/jianqianzhou/leetcode/blob/main/199.rightSideView.java(右边视角遍历)
 
 https://github.com/jianqianzhou/leetcode/blob/main/112.hasPathSum.java(使用层序遍历来计算累计和)
 https://github.com/jianqianzhou/leetcode/blob/main/113.pathSum.java（回溯（dfs 深度优先遍历递归的方式）和层序遍历（非递归的方式））
