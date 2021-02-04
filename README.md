@@ -96,5 +96,6 @@ https://github.com/jianqianzhou/leetcode/blob/main/109.sortedListToBST.java（�
 
 树的转变
 https://github.com/jianqianzhou/leetcode/blob/main/114.flatten.java（树转为链表）
-https://github.com/jianqianzhou/leetcode/blob/main/116.connect.java(树每一层转为链表)
+https://github.com/jianqianzhou/leetcode/blob/main/116.connect.java(完美二叉树每一层转为链表)
+https://github.com/jianqianzhou/leetcode/blob/main/117.connect.java（二叉树每一层转为链表）
 
