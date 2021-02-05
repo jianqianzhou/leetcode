@@ -65,6 +65,7 @@ https://github.com/jianqianzhou/leetcode/blob/main/034.searchRange.java
 
 位运算
 https://github.com/jianqianzhou/leetcode/blob/main/029.divide.java
+https://github.com/jianqianzhou/leetcode/blob/main/136.singleNumber.java(异或运算，查看元素是否单一)
 
 数组操作
 https://github.com/jianqianzhou/leetcode/blob/main/031.nextPermutation.java
