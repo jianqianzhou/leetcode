@@ -83,19 +83,23 @@ https://github.com/jianqianzhou/leetcode/blob/main/107.levelOrderBottom.java（�
 https://github.com/jianqianzhou/leetcode/blob/main/145.postorderTraversal.java(后序遍历，使用栈Stack，先进后出)
 https://github.com/jianqianzhou/leetcode/blob/main/144.preorderTraversal.java(前序遍历，使用栈Stack，先进先出)
 https://github.com/jianqianzhou/leetcode/blob/main/199.rightSideView.java(右边视角遍历)
-
 https://github.com/jianqianzhou/leetcode/blob/main/112.hasPathSum.java(使用层序遍历来计算累计和)
-https://github.com/jianqianzhou/leetcode/blob/main/113.pathSum.java（回溯（dfs 深度优先遍历递归的方式）和层序遍历（非递归的方式））
+https://github.com/jianqianzhou/leetcode/blob/main/113.pathSum.java（回溯（dfs 深度优先遍历递归的方式）和层序遍历（非递归的方式）
+
 判断树的结构
 https://github.com/jianqianzhou/leetcode/blob/main/100.isSameTree.java（判断两颗树是否相同，深度（递归遍历）、广度优先遍历（队列））
 https://github.com/jianqianzhou/leetcode/blob/main/101.isSymmetric.java（判断树是否是对称的）
 https://github.com/jianqianzhou/leetcode/blob/main/110.isBalanced.java（判断树是否是平衡二叉树）
+
 求树的深度、高度
 https://github.com/jianqianzhou/leetcode/blob/main/104.maxDepth.java（二叉树的最大深度）
 https://github.com/jianqianzhou/leetcode/blob/main/111.minDepth.java（二叉树的最小深度）
+
 构造树
 https://github.com/jianqianzhou/leetcode/blob/main/108.sortedArrayToBST.java（数组构造二叉搜索树）
 https://github.com/jianqianzhou/leetcode/blob/main/109.sortedListToBST.java（链表构造二叉搜索树，快慢指针）
+https://github.com/jianqianzhou/leetcode/blob/main/105.buildTree.java（前序和中序遍历构造二叉树）
+https://github.com/jianqianzhou/leetcode/blob/main/106.buildTree.java（后序和中序遍历构造二叉树）
 
 树的转变
 https://github.com/jianqianzhou/leetcode/blob/main/114.flatten.java（树转为链表）
