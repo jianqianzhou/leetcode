@@ -46,7 +46,6 @@ https://github.com/jianqianzhou/leetcode/blob/main/142.detectCycle.java（检测
 https://github.com/jianqianzhou/leetcode/blob/main/148.sortList.java(链表排序)
 https://github.com/jianqianzhou/leetcode/blob/main/143.reorderList.java（交叉重新排序）
 
-
 贪心策略
 https://github.com/jianqianzhou/leetcode/blob/main/012.intToRoman.java
 
@@ -106,3 +105,5 @@ https://github.com/jianqianzhou/leetcode/blob/main/114.flatten.java（树转为�
 https://github.com/jianqianzhou/leetcode/blob/main/116.connect.java(完美二叉树每一层转为链表)
 https://github.com/jianqianzhou/leetcode/blob/main/117.connect.java（二叉树每一层转为链表）
 
+杨辉三角形
+https://github.com/jianqianzhou/leetcode/blob/main/118.generate.java（list集合操作）
