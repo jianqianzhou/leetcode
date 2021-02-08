@@ -45,6 +45,7 @@ https://github.com/jianqianzhou/leetcode/blob/main/141.hasCycle.java（检测链
 https://github.com/jianqianzhou/leetcode/blob/main/142.detectCycle.java（检测链表是否有环、并判断入环的位置）
 https://github.com/jianqianzhou/leetcode/blob/main/148.sortList.java(链表排序)
 https://github.com/jianqianzhou/leetcode/blob/main/143.reorderList.java（交叉重新排序）
+https://github.com/jianqianzhou/leetcode/blob/main/086.partition.java（分割链表）
 
 贪心策略
 https://github.com/jianqianzhou/leetcode/blob/main/012.intToRoman.java
