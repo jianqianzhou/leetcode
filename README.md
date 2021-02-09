@@ -48,6 +48,8 @@ https://github.com/jianqianzhou/leetcode/blob/main/143.reorderList.java（交叉
 https://github.com/jianqianzhou/leetcode/blob/main/086.partition.java（分割链表）
 https://github.com/jianqianzhou/leetcode/blob/main/083.deleteDuplicates.java(删除排序链表重复元素)
 https://github.com/jianqianzhou/leetcode/blob/main/082.deleteDuplicates.java（删除重复元素）
+旋转链表
+https://github.com/jianqianzhou/leetcode/blob/main/061.rotateRight.java
 
 贪心策略
 https://github.com/jianqianzhou/leetcode/blob/main/012.intToRoman.java
