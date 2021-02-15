@@ -15,10 +15,11 @@ https://github.com/jianqianzhou/leetcode/blob/main/026.removeDuplicates.java
 https://github.com/jianqianzhou/leetcode/blob/main/042.trap.java
 
 字符串操作问题
-https://github.com/jianqianzhou/leetcode/blob/main/008.myAtoi.java
-https://github.com/jianqianzhou/leetcode/blob/main/013.romanToInt.java
+https://github.com/jianqianzhou/leetcode/blob/main/008.myAtoi.java(转出字符串)
+https://github.com/jianqianzhou/leetcode/blob/main/013.romanToInt.java(罗马数字转整数)
 https://github.com/jianqianzhou/leetcode/blob/main/020.isValid.java（字符串匹配、栈操作）
 https://github.com/jianqianzhou/leetcode/blob/main/028.strStr.java（substring函数）
+https://github.com/jianqianzhou/leetcode/blob/main/043.multiply.java（字符串相乘）
 
 动态规划问题
 https://github.com/jianqianzhou/leetcode/blob/main/005.longestPalindrome.java  dp[i][j] = s[i]==s[j] && dp[i+1][j-1]
