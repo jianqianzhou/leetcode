@@ -81,6 +81,7 @@ https://github.com/jianqianzhou/leetcode/blob/main/136.singleNumber.java(异或�
 数组操作
 https://github.com/jianqianzhou/leetcode/blob/main/031.nextPermutation.java
 https://github.com/jianqianzhou/leetcode/blob/main/041.firstMissingPositive.java
+https://github.com/jianqianzhou/leetcode/blob/main/048.rotate.java（旋转数组）
 
 回溯
 https://github.com/jianqianzhou/leetcode/blob/main/039.combinationSum.java(无重复元素的数组 解集不能包含重复的组合)
