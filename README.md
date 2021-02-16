@@ -17,7 +17,7 @@ https://github.com/jianqianzhou/leetcode/blob/main/042.trap.java
 字符串操作问题
 https://github.com/jianqianzhou/leetcode/blob/main/008.myAtoi.java(转出字符串)
 https://github.com/jianqianzhou/leetcode/blob/main/013.romanToInt.java(罗马数字转整数)
-https://github.com/jianqianzhou/leetcode/blob/main/020.isValid.java（字符串匹配、栈操作）
+
 https://github.com/jianqianzhou/leetcode/blob/main/028.strStr.java（substring函数）
 https://github.com/jianqianzhou/leetcode/blob/main/043.multiply.java（字符串相乘）
 
@@ -28,6 +28,7 @@ https://github.com/jianqianzhou/leetcode/blob/main/115.numDistinct.java (不同�
 
 栈
 https://github.com/jianqianzhou/leetcode/blob/main/032.longestValidParentheses.java（最长括号匹配）
+https://github.com/jianqianzhou/leetcode/blob/main/020.isValid.java（字符串匹配、栈操作）
 
 链表问题
 https://github.com/jianqianzhou/leetcode/blob/main/002.addTwoNumbers.java
