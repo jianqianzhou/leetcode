@@ -17,7 +17,6 @@ https://github.com/jianqianzhou/leetcode/blob/main/042.trap.java
 字符串操作问题
 https://github.com/jianqianzhou/leetcode/blob/main/008.myAtoi.java(转出字符串)
 https://github.com/jianqianzhou/leetcode/blob/main/013.romanToInt.java(罗马数字转整数)
-
 https://github.com/jianqianzhou/leetcode/blob/main/028.strStr.java（substring函数）
 https://github.com/jianqianzhou/leetcode/blob/main/043.multiply.java（字符串相乘）
 
@@ -82,6 +81,7 @@ https://github.com/jianqianzhou/leetcode/blob/main/136.singleNumber.java(异或�
 https://github.com/jianqianzhou/leetcode/blob/main/031.nextPermutation.java
 https://github.com/jianqianzhou/leetcode/blob/main/041.firstMissingPositive.java
 https://github.com/jianqianzhou/leetcode/blob/main/048.rotate.java（旋转数组）
+https://github.com/jianqianzhou/leetcode/blob/main/066.plusOne.java（数组加1）
 
 回溯
 https://github.com/jianqianzhou/leetcode/blob/main/039.combinationSum.java(无重复元素的数组 解集不能包含重复的组合)
