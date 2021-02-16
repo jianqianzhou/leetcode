@@ -23,6 +23,9 @@ https://github.com/jianqianzhou/leetcode/blob/main/067.addBinary.java（字符�
 https://github.com/jianqianzhou/leetcode/blob/main/058.lengthOfLastWord.java(最后一个字符长度)
 https://github.com/jianqianzhou/leetcode/blob/main/049.groupAnagrams.java(字符串异位统计)
 
+实现数学公式
+https://github.com/jianqianzhou/leetcode/blob/main/050.myPow.java(实现幂运算)
+
 动态规划问题
 https://github.com/jianqianzhou/leetcode/blob/main/005.longestPalindrome.java  dp[i][j] = s[i]==s[j] && dp[i+1][j-1]
 https://github.com/jianqianzhou/leetcode/blob/main/044.isMatch.java  dp[i][j]=dp[i−1][j−1], dp[i][j]=dp[i][j−1]∨dp[i−1][j]
