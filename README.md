@@ -26,6 +26,9 @@ https://github.com/jianqianzhou/leetcode/blob/main/005.longestPalindrome.java  d
 https://github.com/jianqianzhou/leetcode/blob/main/044.isMatch.java  dp[i][j]=dp[i−1][j−1], dp[i][j]=dp[i][j−1]∨dp[i−1][j]
 https://github.com/jianqianzhou/leetcode/blob/main/115.numDistinct.java (不同的子序列) dp[i][j]=dp[i-1][j-1]+dp[i][j-1], dp[i][j]=dp[i][j-1];
 
+栈
+https://github.com/jianqianzhou/leetcode/blob/main/032.longestValidParentheses.java（最长括号匹配）
+
 链表问题
 https://github.com/jianqianzhou/leetcode/blob/main/002.addTwoNumbers.java
 https://github.com/jianqianzhou/leetcode/blob/main/019.removeNthFromEnd.java(删除链表的节点)
@@ -92,23 +95,19 @@ https://github.com/jianqianzhou/leetcode/blob/main/144.preorderTraversal.java(�
 https://github.com/jianqianzhou/leetcode/blob/main/199.rightSideView.java(右边视角遍历)
 https://github.com/jianqianzhou/leetcode/blob/main/112.hasPathSum.java(使用层序遍历来计算累计和)
 https://github.com/jianqianzhou/leetcode/blob/main/113.pathSum.java（回溯（dfs 深度优先遍历递归的方式）和层序遍历（非递归的方式）
-
 判断树的结构
 https://github.com/jianqianzhou/leetcode/blob/main/100.isSameTree.java（判断两颗树是否相同，深度（递归遍历）、广度优先遍历（队列））
 https://github.com/jianqianzhou/leetcode/blob/main/101.isSymmetric.java（判断树是否是对称的）
 https://github.com/jianqianzhou/leetcode/blob/main/110.isBalanced.java（判断树是否是平衡二叉树）
 https://github.com/jianqianzhou/leetcode/blob/main/098.isValidBST.java(判断树是否是二叉搜索树)
-
 求树的深度、高度
 https://github.com/jianqianzhou/leetcode/blob/main/104.maxDepth.java（二叉树的最大深度）
 https://github.com/jianqianzhou/leetcode/blob/main/111.minDepth.java（二叉树的最小深度）
-
 构造树
 https://github.com/jianqianzhou/leetcode/blob/main/108.sortedArrayToBST.java（数组构造二叉搜索树）
 https://github.com/jianqianzhou/leetcode/blob/main/109.sortedListToBST.java（链表构造二叉搜索树，快慢指针）
 https://github.com/jianqianzhou/leetcode/blob/main/105.buildTree.java（前序和中序遍历构造二叉树）
 https://github.com/jianqianzhou/leetcode/blob/main/106.buildTree.java（后序和中序遍历构造二叉树）
-
 树的转变
 https://github.com/jianqianzhou/leetcode/blob/main/114.flatten.java（树转为链表）
 https://github.com/jianqianzhou/leetcode/blob/main/116.connect.java(完美二叉树每一层转为链表)
