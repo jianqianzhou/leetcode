@@ -19,6 +19,7 @@ https://github.com/jianqianzhou/leetcode/blob/main/008.myAtoi.java(转出字符�
 https://github.com/jianqianzhou/leetcode/blob/main/013.romanToInt.java(罗马数字转整数)
 https://github.com/jianqianzhou/leetcode/blob/main/028.strStr.java（substring函数）
 https://github.com/jianqianzhou/leetcode/blob/main/043.multiply.java（字符串相乘）
+https://github.com/jianqianzhou/leetcode/blob/main/067.addBinary.java（字符串二进制数相加）
 https://github.com/jianqianzhou/leetcode/blob/main/058.lengthOfLastWord.java(最后一个字符长度)
 https://github.com/jianqianzhou/leetcode/blob/main/049.groupAnagrams.java(字符串异位统计)
 
