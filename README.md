@@ -20,6 +20,7 @@ https://github.com/jianqianzhou/leetcode/blob/main/013.romanToInt.java(罗马数
 https://github.com/jianqianzhou/leetcode/blob/main/028.strStr.java（substring函数）
 https://github.com/jianqianzhou/leetcode/blob/main/043.multiply.java（字符串相乘）
 https://github.com/jianqianzhou/leetcode/blob/main/058.lengthOfLastWord.java(最后一个字符长度)
+https://github.com/jianqianzhou/leetcode/blob/main/049.groupAnagrams.java(字符串异位统计)
 
 动态规划问题
 https://github.com/jianqianzhou/leetcode/blob/main/005.longestPalindrome.java  dp[i][j] = s[i]==s[j] && dp[i+1][j-1]
