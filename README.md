@@ -91,6 +91,7 @@ https://github.com/jianqianzhou/leetcode/blob/main/041.firstMissingPositive.java
 https://github.com/jianqianzhou/leetcode/blob/main/048.rotate.java（旋转数组）
 https://github.com/jianqianzhou/leetcode/blob/main/054.spiralOrder.java（螺旋输出数组）
 https://github.com/jianqianzhou/leetcode/blob/main/066.plusOne.java（数组加1）
+https://github.com/jianqianzhou/leetcode/blob/main/073.setZeroes.java(数组设置为0)
 
 回溯
 https://github.com/jianqianzhou/leetcode/blob/main/039.combinationSum.java(无重复元素的数组 解集不能包含重复的组合)
