@@ -73,6 +73,8 @@ https://github.com/jianqianzhou/leetcode/blob/main/055.canJump.java
 https://github.com/jianqianzhou/leetcode/blob/main/017.letterCombinations.java
 https://github.com/jianqianzhou/leetcode/blob/main/022.generateParenthesis.java(括号生成)
 https://github.com/jianqianzhou/leetcode/blob/main/046.permute.java（全排列）
+https://github.com/jianqianzhou/leetcode/blob/main/077.combine.java(n个数的k个组合)
+https://github.com/jianqianzhou/leetcode/blob/main/078.subsets.java（求集合的各个子集组合）
 
 移除重复元素
 https://github.com/jianqianzhou/leetcode/blob/main/026.removeDuplicates.java
