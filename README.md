@@ -81,6 +81,7 @@ https://github.com/jianqianzhou/leetcode/blob/main/027.removeElement.java
 https://github.com/jianqianzhou/leetcode/blob/main/035.searchInsert.java
 https://github.com/jianqianzhou/leetcode/blob/main/033.search.java(旋转数组查找)
 https://github.com/jianqianzhou/leetcode/blob/main/034.searchRange.java
+https://github.com/jianqianzhou/leetcode/blob/main/074.searchMatrix.java（二维数组二分查找）
 
 位运算
 https://github.com/jianqianzhou/leetcode/blob/main/029.divide.java
