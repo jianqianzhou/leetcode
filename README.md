@@ -82,7 +82,8 @@ https://github.com/jianqianzhou/leetcode/blob/main/027.removeElement.java
 
 二分查找
 https://github.com/jianqianzhou/leetcode/blob/main/035.searchInsert.java
-https://github.com/jianqianzhou/leetcode/blob/main/033.search.java(旋转数组查找)
+https://github.com/jianqianzhou/leetcode/blob/main/033.search.java(旋转数组查找，元素不会出现重复)
+https://github.com/jianqianzhou/leetcode/blob/main/081.search.java(旋转数组查找，元素会出现重复值)
 https://github.com/jianqianzhou/leetcode/blob/main/034.searchRange.java
 https://github.com/jianqianzhou/leetcode/blob/main/074.searchMatrix.java（二维数组二分查找）
 
