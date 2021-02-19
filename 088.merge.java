@@ -41,6 +41,22 @@ class Solution {
                  p1--;
               }
          }
-          System.arraycopy(nums2, 0, nums1, 0, p2 + 1);  //Object src, int srcPos, Object dest, int destPos, int length   这里的p2+1需要注意
+         System.arraycopy(nums2, 0, nums1, 0, p2 + 1);  //Object src, int srcPos, Object dest, int destPos, int length   这里的p2+1需要注意
+   }
+
+  //////////////吧arraycopy函数进行修改
+  public void merge(int[] nums1, int m, int[] nums2, int n) {
+       int p1=m-1,p2=n-1, p=m+n-1;
+        while(p2 >= 0){  //需要p2大于0就需要进行复制操作
+            if(p1 >= 0 && nums1[p1] > nums2[p2]){
+                nums1[p] = nums1[p1];
+                p--;
+                p1--;
+            } else {
+                nums1[p] = nums2[p2];
+                p--;
+                p2--;
+            }
+        }
    }
 }
