@@ -97,6 +97,7 @@ https://github.com/jianqianzhou/leetcode/blob/main/031.nextPermutation.java
 https://github.com/jianqianzhou/leetcode/blob/main/041.firstMissingPositive.java
 https://github.com/jianqianzhou/leetcode/blob/main/048.rotate.java（旋转数组）
 https://github.com/jianqianzhou/leetcode/blob/main/054.spiralOrder.java（螺旋输出数组）
+https://github.com/jianqianzhou/leetcode/blob/main/059.generateMatrix.java（生成螺旋矩阵）
 https://github.com/jianqianzhou/leetcode/blob/main/066.plusOne.java（数组加1）
 https://github.com/jianqianzhou/leetcode/blob/main/073.setZeroes.java(数组设置为0)
 https://github.com/jianqianzhou/leetcode/blob/main/080.removeDuplicates.java（移除数组重复元素）
