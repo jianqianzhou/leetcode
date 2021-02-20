@@ -77,6 +77,7 @@ https://github.com/jianqianzhou/leetcode/blob/main/046.permute.java（全排列�
 https://github.com/jianqianzhou/leetcode/blob/main/077.combine.java(n个数的k个组合)
 https://github.com/jianqianzhou/leetcode/blob/main/078.subsets.java（求集合的各个子集组合）
 https://github.com/jianqianzhou/leetcode/blob/main/090.subsetsWithDup.java（求子集合，原来的集合包含重复的元素）
+https://github.com/jianqianzhou/leetcode/blob/main/095.generateTrees.java（生成二叉搜索树）
 
 移除重复元素
 https://github.com/jianqianzhou/leetcode/blob/main/026.removeDuplicates.java
