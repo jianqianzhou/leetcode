@@ -27,6 +27,7 @@ https://github.com/jianqianzhou/leetcode/blob/main/049.groupAnagrams.java(字符
 
 实现数学公式
 https://github.com/jianqianzhou/leetcode/blob/main/050.myPow.java(实现幂运算)
+https://github.com/jianqianzhou/leetcode/blob/main/069.mySqrt.java（实现平方根）
 
 动态规划问题
 https://github.com/jianqianzhou/leetcode/blob/main/005.longestPalindrome.java  dp[i][j] = s[i]==s[j] && dp[i+1][j-1]
@@ -91,6 +92,7 @@ https://github.com/jianqianzhou/leetcode/blob/main/033.search.java(旋转数组�
 https://github.com/jianqianzhou/leetcode/blob/main/081.search.java(旋转数组查找，元素会出现重复值)
 https://github.com/jianqianzhou/leetcode/blob/main/034.searchRange.java
 https://github.com/jianqianzhou/leetcode/blob/main/074.searchMatrix.java（二维数组二分查找）
+https://github.com/jianqianzhou/leetcode/blob/main/069.mySqrt.java（实现平方根）
 
 位运算
 https://github.com/jianqianzhou/leetcode/blob/main/029.divide.java
