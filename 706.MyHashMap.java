@@ -1,4 +1,4 @@
-class MyHashMap {
+class MyHashMap {   //通过率76%
  class Node{  //新建一个数据结构
       int key;
       int value;
