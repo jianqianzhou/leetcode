@@ -149,3 +149,7 @@ https://github.com/jianqianzhou/leetcode/blob/main/117.connect.java（二叉树�
 杨辉三角形
 https://github.com/jianqianzhou/leetcode/blob/main/118.generate.java（list集合操作）
 https://github.com/jianqianzhou/leetcode/blob/main/119.getRow.java（获取行操作）
+
+数据结构设计类
+https://github.com/jianqianzhou/leetcode/blob/main/146.LRUCache.java(LRU缓存策略，使用LinkedHashMap)
+
