@@ -152,4 +152,5 @@ https://github.com/jianqianzhou/leetcode/blob/main/119.getRow.java（获取行�
 
 数据结构设计类
 https://github.com/jianqianzhou/leetcode/blob/main/146.LRUCache.java(LRU缓存策略，使用LinkedHashMap)
+https://github.com/jianqianzhou/leetcode/blob/main/706.MyHashMap.java(设计HashMap，使用新创建的数据结构Node)
 
