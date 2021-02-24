@@ -1,4 +1,13 @@
 class LRUCache {
+    //
+    //   ["LRUCache", "put", "put", "get", "put", "get", "put", "get", "get", "get"]
+    //   [[2], [1, 1], [2, 2], [1], [3, 3], [2], [4, 4], [1], [3], [4]]
+    //   输出
+    //   [null, null, null, 1, null, -1, null, -1, 3, 4]
+    //
+    //    <1,1>--><2,2>
+    //    <2,2>--><1,1>
+    //
     private LinkedHashMap<Integer,Integer> queue;
     private int cap;
     public LRUCache(int capacity) {
