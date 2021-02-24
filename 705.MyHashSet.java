@@ -1,5 +1,10 @@
 class MyHashSet {
      ////通过率5%
+     //
+     // [1-->2-->3-->4-->5-->6]
+     //
+     //
+     //
     private LinkedList<Integer> set;
     /** Initialize your data structure here. */
     public MyHashSet() {
@@ -24,6 +29,14 @@ class MyHashSet {
 
 }
    ////////////////优化设计，通过率33%，主要是使用了数组，缓存命中率之类的
+   //
+   //
+   //  [1-->5-->9]
+   //  [2-->6-->10]
+   //  [3-->7-->11]
+   //  [4-->8-->12]
+   //
+   //
 class MyHashSet {
      private Bucket[] bucket;
      private int cap=769;   //值设置的越大，命中率越低
