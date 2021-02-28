@@ -74,6 +74,7 @@ https://github.com/jianqianzhou/leetcode/blob/main/061.rotateRight.java
 贪心策略
 https://github.com/jianqianzhou/leetcode/blob/main/012.intToRoman.java
 https://github.com/jianqianzhou/leetcode/blob/main/055.canJump.java
+https://github.com/jianqianzhou/leetcode/blob/main/122.maxProfit.java（股票最大收益）
 
 回溯算法
 https://github.com/jianqianzhou/leetcode/blob/main/017.letterCombinations.java
