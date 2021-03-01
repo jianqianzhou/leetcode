@@ -131,6 +131,9 @@ https://github.com/jianqianzhou/leetcode/blob/main/112.hasPathSum.java(使用层
 https://github.com/jianqianzhou/leetcode/blob/main/113.pathSum.java（回溯（dfs 深度优先遍历递归的方式）和层序遍历（非递归的方式）
 https://github.com/jianqianzhou/leetcode/blob/main/129.sumNumbers.java（树节点和，dfs和层序遍历）
 https://github.com/jianqianzhou/leetcode/blob/main/230.kthSmallest.java（二叉搜索树第k小的值）
+https://github.com/jianqianzhou/leetcode/blob/main/235.lowestCommonAncestor.java（二叉搜索树最近公共祖先）
+https://github.com/jianqianzhou/leetcode/blob/main/236.lowestCommonAncestor.java（二叉树最近公共祖先）
+
 判断树的结构
 https://github.com/jianqianzhou/leetcode/blob/main/100.isSameTree.java（判断两颗树是否相同，深度（递归遍历）、广度优先遍历（队列））
 https://github.com/jianqianzhou/leetcode/blob/main/101.isSymmetric.java（判断树是否是对称的）
