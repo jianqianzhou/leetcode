@@ -15,6 +15,7 @@ https://github.com/jianqianzhou/leetcode/blob/main/016.threeSumClosest.java
 https://github.com/jianqianzhou/leetcode/blob/main/026.removeDuplicates.java
 https://github.com/jianqianzhou/leetcode/blob/main/042.trap.java
 https://github.com/jianqianzhou/leetcode/blob/main/075.sortColors.java(颜色分类)
+https://github.com/jianqianzhou/leetcode/blob/main/344.reverseString.java（反转字符串）
 
 字符串操作问题
 https://github.com/jianqianzhou/leetcode/blob/main/008.myAtoi.java(转出字符串)
@@ -39,6 +40,9 @@ https://github.com/jianqianzhou/leetcode/blob/main/064.minPathSum.java(正方形
 https://github.com/jianqianzhou/leetcode/blob/main/120.minimumTotal.java（三角形最小路径和 dp[i][j] = Math.min(dp[i-1][j-1],dp[i-1][j]+triangle[i][j]）
 https://github.com/jianqianzhou/leetcode/blob/main/096.numTrees.java（二叉搜索树数目 dp[i] += dp[i-j]*dp[j-1]）
 https://github.com/jianqianzhou/leetcode/blob/main/121.maxProfit.java（买卖股票，dp[i]=prices[i]-min）
+https://github.com/jianqianzhou/leetcode/blob/main/062.uniquePaths.java（唯一路径 dp[i][j]=dp[i-1][j]+dp[i][j-1]）
+https://github.com/jianqianzhou/leetcode/blob/main/198.rob.java(打家劫舍 dp[i]=Math.max(dp[i-1],dp[i-2]+nums[i]))
+https://github.com/jianqianzhou/leetcode/blob/main/213.rob.java（打家劫舍 ）
 
 栈
 https://github.com/jianqianzhou/leetcode/blob/main/032.longestValidParentheses.java（最长括号匹配）
@@ -111,6 +115,8 @@ https://github.com/jianqianzhou/leetcode/blob/main/066.plusOne.java（数组加1
 https://github.com/jianqianzhou/leetcode/blob/main/073.setZeroes.java(数组设置为0)
 https://github.com/jianqianzhou/leetcode/blob/main/080.removeDuplicates.java（移除数组重复元素）
 https://github.com/jianqianzhou/leetcode/blob/main/088.merge.java(合并两个排序数组)
+https://github.com/jianqianzhou/leetcode/blob/main/056.merge.java（合并区间）
+https://github.com/jianqianzhou/leetcode/blob/main/283.moveZeroes.java（移动非零元素）
 
 回溯
 https://github.com/jianqianzhou/leetcode/blob/main/039.combinationSum.java(无重复元素的数组 解集不能包含重复的组合)
