@@ -10,20 +10,20 @@ class RandomizedSet {
 
     /** Inserts a value to the set. Returns true if the set did not already contain the specified element. */
     public boolean insert(int val) {
-           if(list.contains(val)) return false;
+           if(list.contains(val)) return false;  //时间复杂度为o(n)
            return list.add(val);   
     }
 
     /** Removes a value from the set. Returns true if the set contained the specified element. */
     public boolean remove(int val) {
-       return list.remove((Integer)val);
+       return list.remove((Integer)val);   //时间复杂度为o(n)
     }
 
     /** Get a random element from the set. */
     public int getRandom() {
         Random random = new Random();
         int size = list.size();
-        return (int)list.get(random.nextInt(size));
+        return (int)list.get(random.nextInt(size));   //时间复杂度为o(n)
     }
 }
 
@@ -38,13 +38,13 @@ class RandomizedSet{
          map = new HashMap<>();
          list = new ArrayList<>();
     }
-    public boolean insert(int val){
+    public boolean insert(int val){   //因为插入元素需要判断是否与当前元素重复，使用map判断的话时间复杂度为o(1)
          if(map.containsKey(val)) return false;
          map.put(val, list.size());      //刚开始写成了list.add(list.size(), val); map.put(val, list.size()); 错误原因：map在添加时list已经存在了元素值，导致出错,list.add(0, 1); map.put(1, 1);
          list.add(list.size(), val);
          return true;
     }
-    public boolean remove(int val){
+    public boolean remove(int val){   /////将最后一个元素覆盖要删除的元素，直接删除最后一个元素，时间复杂度为o(n)
          if(map.containsKey(val)){   
               int last = list.get(list.size()-1);  //获取最后一个元素值
               int idx = map.get(val);    //获取当前需要删除元素的索引
@@ -56,6 +56,7 @@ class RandomizedSet{
          }
          return false;
     }
+
     public int getRandom(){
         return list.get(random.nextInt(list.size()));
     }
