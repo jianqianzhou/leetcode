@@ -7,6 +7,7 @@ https://github.com/jianqianzhou/leetcode/blob/main/003.lengthOfLongestSubstring.
 
 双指针问题
 https://github.com/jianqianzhou/leetcode/blob/main/009.isPalindrome.java
+https://github.com/jianqianzhou/leetcode/blob/main/125.isPalindrome.java（判断是否回文）
 https://github.com/jianqianzhou/leetcode/blob/main/011.maxArea.java
 https://github.com/jianqianzhou/leetcode/blob/main/015.threeSum.java （三数之和、四数之和）
 https://github.com/jianqianzhou/leetcode/blob/main/018.fourSum.java
@@ -14,6 +15,7 @@ https://github.com/jianqianzhou/leetcode/blob/main/016.threeSumClosest.java
 https://github.com/jianqianzhou/leetcode/blob/main/026.removeDuplicates.java
 https://github.com/jianqianzhou/leetcode/blob/main/042.trap.java
 https://github.com/jianqianzhou/leetcode/blob/main/075.sortColors.java(颜色分类)
+https://github.com/jianqianzhou/leetcode/blob/main/344.reverseString.java（反转字符串）
 
 字符串操作问题
 https://github.com/jianqianzhou/leetcode/blob/main/008.myAtoi.java(转出字符串)
@@ -26,6 +28,7 @@ https://github.com/jianqianzhou/leetcode/blob/main/049.groupAnagrams.java(字符
 
 实现数学公式
 https://github.com/jianqianzhou/leetcode/blob/main/050.myPow.java(实现幂运算)
+https://github.com/jianqianzhou/leetcode/blob/main/069.mySqrt.java（实现平方根）
 
 动态规划问题
 https://github.com/jianqianzhou/leetcode/blob/main/005.longestPalindrome.java  dp[i][j] = s[i]==s[j] && dp[i+1][j-1]
@@ -35,6 +38,11 @@ https://github.com/jianqianzhou/leetcode/blob/main/070.climbStairs.java（爬楼
 https://github.com/jianqianzhou/leetcode/blob/main/053.maxSubArray.java(最大连续和数组，dp[i] = Math.max(dp[i-1]+nums[i],nums[i]))
 https://github.com/jianqianzhou/leetcode/blob/main/064.minPathSum.java(正方形最小路径和 dp[i][j] = Math.min(dp[i][j-1],dp[i-1][j])+grid[i][j];)
 https://github.com/jianqianzhou/leetcode/blob/main/120.minimumTotal.java（三角形最小路径和 dp[i][j] = Math.min(dp[i-1][j-1],dp[i-1][j]+triangle[i][j]）
+https://github.com/jianqianzhou/leetcode/blob/main/096.numTrees.java（二叉搜索树数目 dp[i] += dp[i-j]*dp[j-1]）
+https://github.com/jianqianzhou/leetcode/blob/main/121.maxProfit.java（买卖股票，dp[i]=prices[i]-min）
+https://github.com/jianqianzhou/leetcode/blob/main/062.uniquePaths.java（唯一路径 dp[i][j]=dp[i-1][j]+dp[i][j-1]）
+https://github.com/jianqianzhou/leetcode/blob/main/198.rob.java(打家劫舍 dp[i]=Math.max(dp[i-1],dp[i-2]+nums[i]))
+https://github.com/jianqianzhou/leetcode/blob/main/213.rob.java（打家劫舍 ）
 
 栈
 https://github.com/jianqianzhou/leetcode/blob/main/032.longestValidParentheses.java（最长括号匹配）
@@ -70,6 +78,7 @@ https://github.com/jianqianzhou/leetcode/blob/main/061.rotateRight.java
 贪心策略
 https://github.com/jianqianzhou/leetcode/blob/main/012.intToRoman.java
 https://github.com/jianqianzhou/leetcode/blob/main/055.canJump.java
+https://github.com/jianqianzhou/leetcode/blob/main/122.maxProfit.java（股票最大收益）
 
 回溯算法
 https://github.com/jianqianzhou/leetcode/blob/main/017.letterCombinations.java
@@ -90,6 +99,7 @@ https://github.com/jianqianzhou/leetcode/blob/main/033.search.java(旋转数组�
 https://github.com/jianqianzhou/leetcode/blob/main/081.search.java(旋转数组查找，元素会出现重复值)
 https://github.com/jianqianzhou/leetcode/blob/main/034.searchRange.java
 https://github.com/jianqianzhou/leetcode/blob/main/074.searchMatrix.java（二维数组二分查找）
+https://github.com/jianqianzhou/leetcode/blob/main/069.mySqrt.java（实现平方根）
 
 位运算
 https://github.com/jianqianzhou/leetcode/blob/main/029.divide.java
@@ -105,12 +115,15 @@ https://github.com/jianqianzhou/leetcode/blob/main/066.plusOne.java（数组加1
 https://github.com/jianqianzhou/leetcode/blob/main/073.setZeroes.java(数组设置为0)
 https://github.com/jianqianzhou/leetcode/blob/main/080.removeDuplicates.java（移除数组重复元素）
 https://github.com/jianqianzhou/leetcode/blob/main/088.merge.java(合并两个排序数组)
+https://github.com/jianqianzhou/leetcode/blob/main/056.merge.java（合并区间）
+https://github.com/jianqianzhou/leetcode/blob/main/283.moveZeroes.java（移动非零元素）
 
 回溯
 https://github.com/jianqianzhou/leetcode/blob/main/039.combinationSum.java(无重复元素的数组 解集不能包含重复的组合)
 https://github.com/jianqianzhou/leetcode/blob/main/040.combinationSum2.java（有重复元素的数组 解集不能包含重复的组合）
 https://github.com/jianqianzhou/leetcode/blob/main/077.combine.java（n之间的k个组合数）
 https://github.com/jianqianzhou/leetcode/blob/main/047.permuteUnique.java（有重复元素，求无重复元素和重复组合的全排列）
+https://github.com/jianqianzhou/leetcode/blob/main/131.partition.java（字符串分割）
 
 树的遍历
 https://github.com/jianqianzhou/leetcode/blob/main/094.inorderTraversal.java（中序遍历，使用栈Stack，先进后出）
@@ -122,6 +135,11 @@ https://github.com/jianqianzhou/leetcode/blob/main/144.preorderTraversal.java(�
 https://github.com/jianqianzhou/leetcode/blob/main/199.rightSideView.java(右边视角遍历)
 https://github.com/jianqianzhou/leetcode/blob/main/112.hasPathSum.java(使用层序遍历来计算累计和)
 https://github.com/jianqianzhou/leetcode/blob/main/113.pathSum.java（回溯（dfs 深度优先遍历递归的方式）和层序遍历（非递归的方式）
+https://github.com/jianqianzhou/leetcode/blob/main/129.sumNumbers.java（树节点和，dfs和层序遍历）
+https://github.com/jianqianzhou/leetcode/blob/main/230.kthSmallest.java（二叉搜索树第k小的值）
+https://github.com/jianqianzhou/leetcode/blob/main/235.lowestCommonAncestor.java（二叉搜索树最近公共祖先）
+https://github.com/jianqianzhou/leetcode/blob/main/236.lowestCommonAncestor.java（二叉树最近公共祖先）
+
 判断树的结构
 https://github.com/jianqianzhou/leetcode/blob/main/100.isSameTree.java（判断两颗树是否相同，深度（递归遍历）、广度优先遍历（队列））
 https://github.com/jianqianzhou/leetcode/blob/main/101.isSymmetric.java（判断树是否是对称的）
@@ -143,3 +161,9 @@ https://github.com/jianqianzhou/leetcode/blob/main/117.connect.java（二叉树�
 杨辉三角形
 https://github.com/jianqianzhou/leetcode/blob/main/118.generate.java（list集合操作）
 https://github.com/jianqianzhou/leetcode/blob/main/119.getRow.java（获取行操作）
+
+数据结构设计类
+https://github.com/jianqianzhou/leetcode/blob/main/146.LRUCache.java(LRU缓存策略，使用LinkedHashMap)
+https://github.com/jianqianzhou/leetcode/blob/main/706.MyHashMap.java(设计HashMap，使用新创建的数据结构Node)
+https://github.com/jianqianzhou/leetcode/blob/main/705.MyHashSet.java(使用LinkedList设计，同时加入数组提高缓存命中率)
+
