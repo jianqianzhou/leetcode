@@ -25,6 +25,7 @@ https://github.com/jianqianzhou/leetcode/blob/main/043.multiply.java（字符串
 https://github.com/jianqianzhou/leetcode/blob/main/067.addBinary.java（字符串二进制数相加）
 https://github.com/jianqianzhou/leetcode/blob/main/058.lengthOfLastWord.java(最后一个字符长度)
 https://github.com/jianqianzhou/leetcode/blob/main/049.groupAnagrams.java(字符串异位统计)
+https://github.com/jianqianzhou/leetcode/blob/main/242.isAnagram.java（判断字符串是否异位）
 
 实现数学公式
 https://github.com/jianqianzhou/leetcode/blob/main/050.myPow.java(实现幂运算)
@@ -43,6 +44,7 @@ https://github.com/jianqianzhou/leetcode/blob/main/121.maxProfit.java（买卖�
 https://github.com/jianqianzhou/leetcode/blob/main/062.uniquePaths.java（唯一路径 dp[i][j]=dp[i-1][j]+dp[i][j-1]）
 https://github.com/jianqianzhou/leetcode/blob/main/198.rob.java(打家劫舍 dp[i]=Math.max(dp[i-1],dp[i-2]+nums[i]))
 https://github.com/jianqianzhou/leetcode/blob/main/213.rob.java（打家劫舍 ）
+https://github.com/jianqianzhou/leetcode/blob/main/300.lengthOfLIS.java（最长递增子序列 dp[i] = Math.max(dp[j]+1,dp[i])）
 
 栈
 https://github.com/jianqianzhou/leetcode/blob/main/032.longestValidParentheses.java（最长括号匹配）
@@ -72,6 +74,7 @@ https://github.com/jianqianzhou/leetcode/blob/main/143.reorderList.java（交叉
 https://github.com/jianqianzhou/leetcode/blob/main/086.partition.java（分割链表）
 https://github.com/jianqianzhou/leetcode/blob/main/083.deleteDuplicates.java(删除排序链表重复元素)
 https://github.com/jianqianzhou/leetcode/blob/main/082.deleteDuplicates.java（删除重复元素）
+https://github.com/jianqianzhou/leetcode/blob/main/234.isPalindrome.java（判断链表是否是回文）
 旋转链表
 https://github.com/jianqianzhou/leetcode/blob/main/061.rotateRight.java
 
@@ -100,6 +103,7 @@ https://github.com/jianqianzhou/leetcode/blob/main/081.search.java(旋转数组�
 https://github.com/jianqianzhou/leetcode/blob/main/034.searchRange.java
 https://github.com/jianqianzhou/leetcode/blob/main/074.searchMatrix.java（二维数组二分查找）
 https://github.com/jianqianzhou/leetcode/blob/main/069.mySqrt.java（实现平方根）
+https://github.com/jianqianzhou/leetcode/blob/main/378.kthSmallest.java（第k小的数）
 
 位运算
 https://github.com/jianqianzhou/leetcode/blob/main/029.divide.java
@@ -117,6 +121,7 @@ https://github.com/jianqianzhou/leetcode/blob/main/080.removeDuplicates.java（�
 https://github.com/jianqianzhou/leetcode/blob/main/088.merge.java(合并两个排序数组)
 https://github.com/jianqianzhou/leetcode/blob/main/056.merge.java（合并区间）
 https://github.com/jianqianzhou/leetcode/blob/main/283.moveZeroes.java（移动非零元素）
+https://github.com/jianqianzhou/leetcode/blob/main/250.intersect.java（数组交集）
 
 回溯
 https://github.com/jianqianzhou/leetcode/blob/main/039.combinationSum.java(无重复元素的数组 解集不能包含重复的组合)
@@ -166,4 +171,7 @@ https://github.com/jianqianzhou/leetcode/blob/main/119.getRow.java（获取行�
 https://github.com/jianqianzhou/leetcode/blob/main/146.LRUCache.java(LRU缓存策略，使用LinkedHashMap)
 https://github.com/jianqianzhou/leetcode/blob/main/706.MyHashMap.java(设计HashMap，使用新创建的数据结构Node)
 https://github.com/jianqianzhou/leetcode/blob/main/705.MyHashSet.java(使用LinkedList设计，同时加入数组提高缓存命中率)
+https://github.com/jianqianzhou/leetcode/blob/main/380.RandomizedSet.java（常数级别插入、删除、随机访问）
 
+其他
+https://github.com/jianqianzhou/leetcode/blob/main/229.majorityElement.java（摩尔投票法）
