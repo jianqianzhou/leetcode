@@ -1,6 +1,7 @@
 # leetcode
 HashMap问题
-https://github.com/jianqianzhou/leetcode/blob/main/000.twoSum.java
+https://github.com/jianqianzhou/leetcode/blob/main/000.twoSum.java（两数之和）
+https://github.com/jianqianzhou/leetcode/blob/main/454.fourSumCount.java（map先存放前两个数组的值，然后遍历后两个数组，四数相加）
 
 滑动窗口问题 
 https://github.com/jianqianzhou/leetcode/blob/main/003.lengthOfLongestSubstring.java
@@ -9,8 +10,8 @@ https://github.com/jianqianzhou/leetcode/blob/main/003.lengthOfLongestSubstring.
 https://github.com/jianqianzhou/leetcode/blob/main/009.isPalindrome.java
 https://github.com/jianqianzhou/leetcode/blob/main/125.isPalindrome.java（判断是否回文）
 https://github.com/jianqianzhou/leetcode/blob/main/011.maxArea.java
-https://github.com/jianqianzhou/leetcode/blob/main/015.threeSum.java （三数之和、四数之和）
-https://github.com/jianqianzhou/leetcode/blob/main/018.fourSum.java
+https://github.com/jianqianzhou/leetcode/blob/main/015.threeSum.java （三数之和）
+https://github.com/jianqianzhou/leetcode/blob/main/018.fourSum.java（四数之和）
 https://github.com/jianqianzhou/leetcode/blob/main/016.threeSumClosest.java
 https://github.com/jianqianzhou/leetcode/blob/main/026.removeDuplicates.java
 https://github.com/jianqianzhou/leetcode/blob/main/042.trap.java
@@ -108,6 +109,8 @@ https://github.com/jianqianzhou/leetcode/blob/main/378.kthSmallest.java（第k�
 位运算
 https://github.com/jianqianzhou/leetcode/blob/main/029.divide.java
 https://github.com/jianqianzhou/leetcode/blob/main/136.singleNumber.java(异或运算，查看元素是否单一)
+https://github.com/jianqianzhou/leetcode/blob/main/371.getSum.java（两数相加）
+https://github.com/jianqianzhou/leetcode/blob/main/191.hammingWeight.java（统计1的个数）
 
 数组操作
 https://github.com/jianqianzhou/leetcode/blob/main/031.nextPermutation.java
@@ -144,6 +147,7 @@ https://github.com/jianqianzhou/leetcode/blob/main/129.sumNumbers.java（树节�
 https://github.com/jianqianzhou/leetcode/blob/main/230.kthSmallest.java（二叉搜索树第k小的值）
 https://github.com/jianqianzhou/leetcode/blob/main/235.lowestCommonAncestor.java（二叉搜索树最近公共祖先）
 https://github.com/jianqianzhou/leetcode/blob/main/236.lowestCommonAncestor.java（二叉树最近公共祖先）
+https://github.com/jianqianzhou/leetcode/blob/main/450.deleteNode.java（删除二叉搜索树的节点）
 
 判断树的结构
 https://github.com/jianqianzhou/leetcode/blob/main/100.isSameTree.java（判断两颗树是否相同，深度（递归遍历）、广度优先遍历（队列））
